@@ -1,7 +1,7 @@
 # JasonAmbition
 A game sample using cocos2dx-js with some materials from Tencent's flying shooting game 'feiji'(http://feiji.qq.com/).
 
-使用Cocos2dx-js开发的飞行射击游戏游戏Sample。
+使用Cocos2dx-js开发的飞行射击游戏Sample。
 
 ##Online demo
 To see http://www.rogerkang.site:3000
