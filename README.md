@@ -14,4 +14,4 @@ Please Open on Chrome or Firefox
 * Install NodeJS and Npm(you can change to any web server,  because it is only used to get resource files)
 * Run `npm install` in the root folder of your project
 * Run `node init.js` under the root folder of your project
-* Brower `localhost:3000` in your Chrome or Firefox
+* Browse `localhost:3000` in your Chrome or Firefox
