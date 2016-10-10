@@ -1,0 +1,26 @@
+{
+    "project_type": "js",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+	"has_native": true, 
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "particle", "ccpool"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/scene/MenuScene.js",
+        "src/manager/MusicManager.js",
+        "src/manager/BulletManager.js",
+        "src/scene/AboutScene.js",
+        "src/scene/GameScene.js",
+        "src/gameObject/Plane.js",
+        "src/gameObject/Bullet.js",
+        "src/gameObject/Bullets/DefaultBullet.js",
+        "src/gameObject/Bullets/MissileBullet.js"
+    ]
+}

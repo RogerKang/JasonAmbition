@@ -1,0 +1,43 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "particle", "ccpool", "ccbreader"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/gameObject/Enemy.js",
+        "src/gameObject/Enemies/Alpha.js",
+        "src/gameObject/Enemies/Beta.js",
+        "src/gameObject/Enemies/Gamma.js",
+        "src/gameObject/Boss/Jason.js",
+        "src/scene/MenuScene.js",
+        "src/manager/MusicManager.js",
+        "src/manager/BulletManager.js",
+        "src/manager/EnemyManager.js",
+        "src/manager/ParticleManager.js",
+        "src/manager/StageManager.js",
+        "src/scene/AboutScene.js",
+        "src/scene/GameScene.js",
+        "src/scene/TestScene.js",
+        "src/gameObject/Plane.js",
+        "src/gameObject/Bullet.js",
+        "src/gameObject/Bullets/DefaultBullet.js",
+        "src/gameObject/Bullets/MissileBullet.js",
+        "src/gameObject/Bullets/BasicBullet.js",
+        "src/gameObject/Bullets/UltraBullet.js",
+        "src/gameObject/Bullets/CometBullet.js",
+        "src/gameObject/Bullets/DartBullet.js",
+        "src/gameObject/Bullets/ShellBullet.js",
+        "src/gameObject/Bullets/NavigateBullet.js",
+        "src/layer/GameInfo.js",
+        "src/layer/GameOverLayer.js",
+        "src/manager/ItemManager.js"
+    ]
+}
