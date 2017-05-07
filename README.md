@@ -3,14 +3,14 @@ A game sample using cocos2dx-js with some materials from Tencent's flying shooti
 
 使用Cocos2dx-js开发的飞行射击游戏Sample，素材来自腾讯《全民飞机大战》。
 
-##Online demo
+## Online demo
 To see http://www.rogerkang.site:3000
 Please Open on Chrome or Firefox
 
-##中文教程
+## 中文教程
 http://www.jianshu.com/p/61fbcf748ee3
 
-##How to run it
+## How to run it
 * Install Cocos2dx from http://www.cocos2d-x.org/
 * Create a new cocos2dx project with Javascript language
 * Put the source code file into the root folder of your new project
